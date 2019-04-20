@@ -5,4 +5,4 @@ This project is based on the [S.Krishnan et.al.](https://arxiv.org/abs/1808.0319
 We aim to implement and improve upon this work.Final goal is to integrate this technique into the present day query optimizers used in MySQl,PostgreSQL,Apache Spark etc.
 
 ## Data Flow Diagram
-![alt text](https://raw.githubusercontent.com/TheIndianCoder/Optimizing-join-queries-using-reinforcement-learning/master/readde_help/temp.png)
+![alt text](https://raw.githubusercontent.com/TheIndianCoder/Optimizing-join-queries-using-reinforcement-learning/master/readme_help/temp.png)
